@@ -30,3 +30,6 @@ override.tf.json
 
 #Exclude Secrets or sensitive vars
 *.secrets
+
+# VScode
+.vscode
